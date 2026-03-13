@@ -31,7 +31,6 @@ Builder. Backend → AI Agent. **用真名去冒险。**
 
 ## Connect
 
-- **Email**: yinshucheng@gmail.com
 - **WeChat**: <!-- 后续放二维码图片 -->
 - **小红书**: *coming soon*
 - **Twitter/X**: *coming soon*
