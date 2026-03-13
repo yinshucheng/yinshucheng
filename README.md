@@ -20,10 +20,17 @@ Builder. Backend → AI Agent. **用真名去冒险。**
 
 曾经历：直播消息存储 → 通用缓存系统 → 豆包 IM → 多模态 Pipeline → AI 应用生成平台 → Agent 评测体系。
 
-## Side Projects
+## Writing
+
+- **[Builder Notes](https://github.com/yinshucheng/builder-notes)** — AI Agent 工程、系统设计、Builder 实践笔记
+  - [Claude Code 深度解析（上）：从 Copilot 到 Agentic Workflow](https://github.com/yinshucheng/builder-notes/blob/main/agent-engineering/01-claude-code-deep-dive-part1.md)
+  - [Claude Code 深度解析（下）：MCP、Skills 与上下文工程](https://github.com/yinshucheng/builder-notes/blob/main/agent-engineering/02-claude-code-deep-dive-part2.md)
+
+## Projects
 
 | Project | Description |
 |---------|-------------|
+| [lessnote-template](https://github.com/yinshucheng/lessnote-template) | AI-driven personal knowledge OS — Skills, memory, cognitive bias challenges |
 | [Vibeflow](https://github.com/yinshucheng/vibeflow) | AI-driven task management & focus system (Next.js + iOS) |
 | [MixRead](https://github.com/yinshucheng/MixRead) | AI-assisted reading product |
 | [magic-bar](https://github.com/yinshucheng/magic-bar) | AI digital human for bar scenarios |
