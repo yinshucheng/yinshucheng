@@ -29,6 +29,13 @@ Builder. Backend → AI Agent. **用真名去冒险。**
 | [magic-bar](https://github.com/yinshucheng/magic-bar) | AI digital human for bar scenarios |
 | [tinyGPT](https://github.com/yinshucheng/tinyGPT) | Build a LLM from scratch |
 
+## Connect
+
+- **Email**: yinshucheng@gmail.com
+- **WeChat**: <!-- 后续放二维码图片 -->
+- **小红书**: *coming soon*
+- **Twitter/X**: *coming soon*
+
 ## Philosophy
 
 > "Embrace accountability, and take business risks under your own name."
