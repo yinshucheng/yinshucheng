@@ -1,6 +1,6 @@
 # Hi, I'm Shucheng Yin (尹树成)
 
-Builder. Backend → AI Agent. **用真名去冒险。**
+Builder. Backend → AI Agent.
 
 ## What I Do
 
